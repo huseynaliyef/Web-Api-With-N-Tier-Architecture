@@ -1,0 +1,30 @@
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\bin\Debug\net5.0\N-Tier.BusinessLogic.deps.json
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\bin\Debug\net5.0\N-Tier.BusinessLogic.dll
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\bin\Debug\net5.0\N-Tier.BusinessLogic.pdb
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.AssemblyInfo.cs
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.dll
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\refint\N-Tier.BusinessLogic.dll
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.pdb
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\ref\N-Tier.BusinessLogic.dll
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\bin\Debug\net5.0\N-Tier.Data.dll
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\bin\Debug\net5.0\N-Tier.Data.pdb
+C:\Users\ASUS TUF GAMING\Desktop\New folder\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.csproj.CopyComplete
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\bin\Debug\net5.0\N-Tier.BusinessLogic.deps.json
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\bin\Debug\net5.0\N-Tier.BusinessLogic.dll
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\bin\Debug\net5.0\N-Tier.BusinessLogic.pdb
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\bin\Debug\net5.0\N-Tier.Data.dll
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\bin\Debug\net5.0\N-Tier.Data.pdb
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.AssemblyInfo.cs
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.csproj.CopyComplete
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.dll
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\refint\N-Tier.BusinessLogic.dll
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\N-Tier.BusinessLogic.pdb
+C:\Users\ASUS TUF GAMING\Desktop\Web Api With N-Tier Architecture\Solution1\N-Tire.BusinessLogic\obj\Debug\net5.0\ref\N-Tier.BusinessLogic.dll
